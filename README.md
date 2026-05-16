@@ -1,7 +1,7 @@
 # LLM Safety Response Evaluation Toolkit
 
 **A Python-based, no-API tool for analyzing how large language models respond to safe, risky, ambiguous, and cybersecurity-related prompts.**
-This is a no-API local evaluation toolkit. It does not call Claude or any paid API. It analyzes pre-collected model responses stored in responses.csv.
+It analyzes pre-collected model responses stored in responses.csv.
 
 ---
 
